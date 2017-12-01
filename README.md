@@ -1,9 +1,9 @@
 # eDomBot
 Bot for eDomination Game
 
-##Usage
+## Usage
 
-##Resources Available
+## Resources Available
 * citizen
 * citizenship
 * party
