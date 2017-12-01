@@ -1,7 +1,7 @@
 # eDomBot
 Bot for eDomination Game
 
-[![version][version-badge]][CHANGELOG]
+[![version][version-badge]][CHANGELOG]]
 
 ##Usage
 
